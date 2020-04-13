@@ -1,0 +1,50 @@
+@media (min-width: 960px){
+    .container{
+        padding-left: 55px;
+        padding-right: 55px;
+    }
+}
+@media (min-width: 768px){
+    .container{
+        padding-left: 39px;
+        padding-right: 39px;
+    }
+}
+@media (min-width: 576px){
+    .container{
+        padding-left: 36px;
+        padding-right: 36px;
+    }
+}
+body{
+    font-size: 16px;
+}
+.container{
+    max-width: 100%;
+}
+.card-title{
+    font-size: 20px;
+}
+.navbar{
+    background-color: #343A40;
+}
+a{
+    color: #FFFFFF;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+.card{
+    margin-top:2rem;
+}
+table{
+    margin-top: 2rem;
+}
+td:nth-child(1),td:nth-child(3),td:nth-child(4){
+    color: #007BFF;
+}
+.footer{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0;
+}
